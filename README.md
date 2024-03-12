@@ -1,7 +1,6 @@
 README
 
-Nombre del proyecto: proyectos_universidad_estructuraDeDatos2
-
+Nombre del proyecto: EstructuraDeDatos2_proyectosUniversidad
 Descripción: [Descripción breve del proyecto]
 
 ---

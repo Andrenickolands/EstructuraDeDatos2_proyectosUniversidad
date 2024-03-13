@@ -8,7 +8,7 @@ Descripción: [Descripción breve del proyecto]
 
 Autores:
 
-Nicolás Sepúlveda (Enlace a GitHub)
+Nicolás Sepúlveda (https://github.com/Andrenickolands/)
 ...
 
 Fecha de creación: 17/08/2024
